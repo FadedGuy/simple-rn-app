@@ -35,7 +35,7 @@ export default function App() {
   //     setPosts([{text: inputText, imgURL : img}, ...posts]);
   //     onChangeText(""); 
   //   }else{
-  //     Alert.alert("Error !" , "Enter text in the box before publishing");
+  //     Alert.alert("Erreur !" , "Entrez du texte dans la boîte avant de publier");
   //   }
   // }
 
