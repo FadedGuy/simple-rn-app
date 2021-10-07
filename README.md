@@ -3,5 +3,5 @@
 Simple React Native app for Zesty application
 
 ## Preview:
-<img src="https://imgur.com/a/0z8bTWX" width="350px"/>
+<img src="https://imgur.com/a/SAlzI5m" width="350px"/>
 
